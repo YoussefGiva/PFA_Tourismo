@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080494344911",
+    "project_id": "pfa-tourismo",
+    "storage_bucket": "pfa-tourismo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080494344911:android:341bee086dbda022d545ba",
+        "android_client_info": {
+          "package_name": "com.example.pfa_tourismo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2SiZgFT4kbbpWd63jNs5e0KfsppKMYaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
